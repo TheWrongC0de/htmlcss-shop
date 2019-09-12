@@ -1,0 +1,94 @@
+.containergrey{
+  background-color: #AFC7C7;
+  height: 300px;
+  width: 200px;
+  bottom: 349px;
+}
+.cointainerposition2{
+  background-color: #AFC7C7;
+  height: 300px;
+  width: 200px;
+  position: absolute;
+  left: 210px;
+  bottom: 349px;
+}
+.cointainerposition3{
+  background-color: #AFC7C7;
+  height: 300px;
+  width: 200px;
+  position: absolute;
+  left: 412px;
+  bottom: 349px;
+}
+.cointainerposition4{
+  background-color: #AFC7C7;
+  height: 300px;
+  width: 200px;
+  position: absolute;
+  top: 330px;
+}
+.cointainerposition5{
+  background-color: #AFC7C7;
+  height: 300px;
+  width: 200px;
+  position: absolute;
+  top: 330px;
+  left: 210px;
+}
+.cointainerposition6{
+  background-color:#AFC7C7;
+  height: 300px;
+  width: 200px;
+  position: absolute;
+  top: 330px;
+  left:412px;
+}
+.scontotipo1 {
+  position: absolute;
+  left: 160px;
+  bottom: 600px;
+  border-radius: 100%;
+  background-color: #347C17;
+}
+.scontotipo2
+.sconto2 {
+  position: absolute;
+  left: 375px;
+  bottom: 600px;
+  border-radius: 100%;
+  background-color:red;
+}
+.sconto3 {
+  position: absolute;
+  left: 565px;
+  bottom: 600px;
+  border-radius: 100%;
+  background-color: #347C17;
+}
+.sconto4 {
+  position: absolute;
+  left: 160px;
+  top: 315px;
+  border-radius: 100%;
+  background-color: #347C17;
+  }
+.sconto5 {
+  position: absolute;
+  left: 375px;
+  top: 315px;
+  border-radius: 100%;
+  background-color:red;
+  }
+.sconto6 {
+  position: absolute;
+  left: 565px;
+  top: 315px;
+  border-radius: 100%;
+  background-color: #347C17;
+}
+.immagine1 {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  bottom: 400px;
+}
